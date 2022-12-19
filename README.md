@@ -3,7 +3,6 @@
 ---
 # Contacts
 - Location: Mogilev, Belarus
-- Phone: +375-29-372-52-74
 - Email: ksyomkin02@mail.ru
 
 <a href="https://github.com/Kirilish"><img src="https://i0.wp.com/itc.ua/wp-content/uploads/2021/01/github-logo.jpg?fit=1200%2C850&quality=100&strip=all&ssl=1" width="55px"></a> <a href="https://discordapp.com/users/1014972009169563688/"><img src="https://storage.failmi.ru/img/icon/discord.png" width="40px"></a>
