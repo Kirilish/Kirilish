@@ -1,8 +1,4 @@
 
-https://Kirilish.github.io/rsschool-cv/cv
-
----
-
 # Kirill Semkin
 ---
 # Contacts
