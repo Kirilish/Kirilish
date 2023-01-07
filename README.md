@@ -7,6 +7,9 @@
 
 <a href="https://github.com/Kirilish"><img src="https://i0.wp.com/itc.ua/wp-content/uploads/2021/01/github-logo.jpg?fit=1200%2C850&quality=100&strip=all&ssl=1" width="55px"></a> <a href="https://discordapp.com/users/1014972009169563688/"><img src="https://storage.failmi.ru/img/icon/discord.png" width="40px"></a>
 
+# My CodeWars: #
+![alt rank](https://www.codewars.com/users/rsschool_59369b460c14fd14/badges/large)
+
 # 💫 About Me:
 I just recently started learning Front development.<br>And I want to achieve good results and I know that I will succeed. My strengths are communication skills, I like to work in a team
 
@@ -16,9 +19,6 @@ I just recently started learning Front development.<br>And I want to achieve goo
 ![](https://github-readme-stats.vercel.app/api?username=Kirilish&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kirilish&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirilish&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kirilish&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
